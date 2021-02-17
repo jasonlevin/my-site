@@ -1,5 +1,6 @@
-baseURL = "https://jasonlevin.co/"
+```toml
+baseURL = "http://jasonlevin.co/"
 languageCode = "en-us"
 title = "Jason Levin"
-
-theme = "hugo-theme-dimension"
+theme = "dimension"
+```
